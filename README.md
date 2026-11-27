@@ -11,6 +11,10 @@ transformation/ Script de transformação
 output/         Arquivo CSV transformado
 ```
 
+## Power BI
+
+<img width="1313" height="738" alt="image" src="https://github.com/user-attachments/assets/9ac41d05-9de0-4696-ac1f-3f1ed1e5af81" />
+
 ## Requisitos
 
 - Python 3
